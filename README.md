@@ -66,8 +66,7 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 
 ### 👉 Others
 
-<p>
- style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<p> 
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> 
 </p>
