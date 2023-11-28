@@ -43,15 +43,17 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Python" src="https://img.shields.io/badge/-Python-darkgreenlogo=python&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white"/>
+<img alt="python" src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>
+<img alt="c++" src="https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=%"/>
+ 
+ 
  </p>
 
 ### 👉 Database
 
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
  </p>
  
 ### 👉 Version Control
@@ -65,11 +67,9 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 ### 👉 Others
 
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> 
 </p>
 
 <br />
