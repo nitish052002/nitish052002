@@ -38,6 +38,8 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+ <img alt="Php" src="https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=purple"/>
+  
  </p>
 
 ### 👉 Programming Language
@@ -58,6 +60,8 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FFFFFF.svg?style=for-the-badge&logo=postgresql&logoColor=%2300BFFF&labelColor=white"/>
+ 
  </p>
  
 ### 👉 Version Control
