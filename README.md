@@ -46,7 +46,7 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="python" src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>
+
 <img alt="c++" src="https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=%"/>
 <img alt="typescript" src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
  
