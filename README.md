@@ -11,7 +11,7 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 ## I'm an Indian 🇮🇳, A Learner, Frontend Developer, and a friend!🙌
 
 🌱 I’m a JavaScript enthusiast and currently all into ReactJS 🧡.  
-💬 Ask me about React, Node.js, JavaScript, devops, career or technology advice 🙌.  
+💬 Ask me about React, Node.js, JavaScript,career or technology advice 🙌.  
 👯 I’m looking to collaborate with other open source contributor.  
 ⚡ Fun fact: I think, I am in Love with Javascript.   
 
@@ -60,8 +60,7 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FFFFFF.svg?style=for-the-badge&logo=postgresql&logoColor=%2300BFFF&labelColor=white"/>
- 
+
  </p>
  
 ### 👉 Version Control
